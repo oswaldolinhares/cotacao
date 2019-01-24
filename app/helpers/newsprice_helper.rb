@@ -1,0 +1,2 @@
+module NewspriceHelper
+end
