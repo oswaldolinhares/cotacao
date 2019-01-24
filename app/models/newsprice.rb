@@ -1,0 +1,2 @@
+class Newsprice < ApplicationRecord
+end
